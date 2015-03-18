@@ -1,0 +1,1 @@
+script to convert csv to mysql
